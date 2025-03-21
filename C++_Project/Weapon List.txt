@@ -1,0 +1,15 @@
+1) Dagger (ζημιά 1d4)
+
+2) Short Sword (ζημιά 1d6)
+
+3) Longsword (ζημιά 1d8)
+
+4) Battle Axe (ζημιά 1d12)
+
+5) Leather Armor (armor 2)
+
+6) Chain mail (armor 4)
+
+7) Breast plate (armor 6)
+
+8) Full plate (armor 8)
